@@ -78,7 +78,7 @@ Since the dataset lacks bounding box annotations, we extract them from segmentat
 5. **📐 Coordinate Extraction**: Extract bounding box coordinates
 6. **📋 Format Conversion**: Convert to standardized format
    
-<img width="10" height="10" alt="BBox" src="https://github.com/user-attachments/assets/f50dda5b-dbd7-4d5b-b898-16f37fd2fc79" />
+<img width="100" height="100" alt="BBox" src="https://github.com/user-attachments/assets/f50dda5b-dbd7-4d5b-b898-16f37fd2fc79" />
 
 ### Output Formats:
 - **Voxel Coordinates**: `[x_min, y_min, z_min, x_size, y_size, z_size]`
