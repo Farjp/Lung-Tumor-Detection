@@ -1,4 +1,4 @@
-# 🫁 Lung Tumor Detection using NSCLC-Radiomics Dataset
+# Lung Tumor Detection using Monai Detection model
 
 A comprehensive approach for automated lung tumor detection in Non-Small Cell Lung Cancer (NSCLC) patients using deep learning and medical imaging.
  <p align="center">
