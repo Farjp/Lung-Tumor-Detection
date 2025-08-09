@@ -1,7 +1,8 @@
 # 🫁 Lung Tumor Detection using NSCLC-Radiomics Dataset
 
 A comprehensive approach for automated lung tumor detection in Non-Small Cell Lung Cancer (NSCLC) patients using deep learning and medical imaging.
-
+ <p align="center">
+<img width="600" height="600" alt="Case-220" src="https://github.com/user-attachments/assets/8971ac70-c673-420a-bbaf-5c0870519fb1" />
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
@@ -11,11 +12,6 @@ A comprehensive approach for automated lung tumor detection in Non-Small Cell Lu
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-
- <p align="center">
-<img width="300" height="300" alt="Case-220" src="https://github.com/user-attachments/assets/8971ac70-c673-420a-bbaf-5c0870519fb1" />
-
-
 
 ## 🎯 Overview
 
