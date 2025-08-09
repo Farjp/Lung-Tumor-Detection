@@ -104,9 +104,10 @@ We leverage the **MONAI Detection** framework for robust medical image analysis:
 
 ### Primary Metrics
 - **📊 Mean Average Precision (mAP)**: Across different cross-validation folds
+    <img width="300" height="200" alt="mAP_over_each_5epochs" src="https://github.com/user-attachments/assets/07baa600-7b14-4cb4-8641-4312ced1bbce" />
 - **🎯 Mean Average Recall (mAR)**: Comprehensive detection performance assessment
-  <img width="600" height="400" alt="mAP_over_each_5epochs" src="https://github.com/user-attachments/assets/07baa600-7b14-4cb4-8641-4312ced1bbce" />
-  <img width="600" height="400" alt="mAR_for_each_5_epochs" src="https://github.com/user-attachments/assets/72b6ebb0-3822-4cc6-bf1e-126ead7e8218" />
+ 
+  <img width="300" height="200" alt="mAR_for_each_5_epochs" src="https://github.com/user-attachments/assets/72b6ebb0-3822-4cc6-bf1e-126ead7e8218" />
 
 
 
