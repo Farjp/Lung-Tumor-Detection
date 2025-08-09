@@ -104,9 +104,10 @@ We leverage the **MONAI Detection** framework for robust medical image analysis:
 
 ### Primary Metrics
 - **📊 Mean Average Precision (mAP)**: Across different cross-validation folds
-    <img width="300" height="200" alt="mAP_over_each_5epochs" src="https://github.com/user-attachments/assets/07baa600-7b14-4cb4-8641-4312ced1bbce" />
+<p align="center">
+   <img width="300" height="200" alt="mAP_over_each_5epochs" src="https://github.com/user-attachments/assets/07baa600-7b14-4cb4-8641-4312ced1bbce" />
 - **🎯 Mean Average Recall (mAR)**: Comprehensive detection performance assessment
- 
+<p align="center"> 
   <img width="300" height="200" alt="mAR_for_each_5_epochs" src="https://github.com/user-attachments/assets/72b6ebb0-3822-4cc6-bf1e-126ead7e8218" />
 
 
@@ -115,7 +116,12 @@ We leverage the **MONAI Detection** framework for robust medical image analysis:
 - **📋 Case-by-case IoU**: Individual patient evaluation on 42-patient test set
 - **📈 Correlation Analysis**: Pearson correlation between IoU and:
   - Tumor size
+<p align="center">
+<img width="320" height="260" alt="Correlation1" src="https://github.com/user-attachments/assets/0cec28c5-e869-4ccf-b712-4411ebe69c7b" />
+
   - Tumor location
+<p align="center">
+<img width="320" height="260" alt="Correlation2" src="https://github.com/user-attachments/assets/2791c3e8-acbd-4272-8c29-5722959508d0" />
 
 ## 🎉 Results
 
