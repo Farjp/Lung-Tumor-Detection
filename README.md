@@ -118,6 +118,10 @@ We leverage the **MONAI Detection** framework for robust medical image analysis:
 
 ### Detailed Analysis
 - **📋 Case-by-case IoU**: Individual patient evaluation on 42-patient test set
+<p align="center">
+<img width="674" height="417" alt="Barplot Testcase" src="https://github.com/user-attachments/assets/b59a1d14-f7c8-49fe-bcee-05f575d7835c" />
+
+ 
 - **📈 Correlation Analysis**: Pearson correlation between IoU and:
   - Tumor size
 <p align="center">
