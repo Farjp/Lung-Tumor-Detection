@@ -97,6 +97,8 @@ We leverage the **MONAI Detection** framework for robust medical image analysis:
 - **Repository**: [MONAI Detection Tutorials](https://github.com/Project-MONAI/tutorials/tree/main/detection)
 - **Architecture**: 3D detection model optimized for medical imaging
 - **Training Strategy**: 10-fold cross-validation on 90% of data
+ <p align="center">
+  <img width="600" height="400" alt="avg_training_loss_over_Epochs" src="https://github.com/user-attachments/assets/45c2d091-e283-467a-939f-7d1787cd40a0" />
 
 ## 📈 Evaluation
 
