@@ -79,7 +79,7 @@ Since the dataset lacks bounding box annotations, we extract them from segmentat
 6. **📋 Format Conversion**: Convert to standardized format
    
 <p align="center">
-  <img width="100" height="100" alt="BBox" src="https://github.com/user-attachments/assets/f50dda5b-dbd7-4d5b-b898-16f37fd2fc79" />
+  <img width="300" height="400" alt="BBox" src="https://github.com/user-attachments/assets/f50dda5b-dbd7-4d5b-b898-16f37fd2fc79" />
 </p>
 
 
