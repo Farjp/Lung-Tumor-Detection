@@ -12,6 +12,10 @@ A comprehensive approach for automated lung tumor detection in Non-Small Cell Lu
 - [Evaluation](#evaluation)
 - [Results](#results)
 
+ <p align="center">
+<img width="300" height="300" alt="Case-220" src="https://github.com/user-attachments/assets/8971ac70-c673-420a-bbaf-5c0870519fb1" />
+
+
 
 ## 🎯 Overview
 
