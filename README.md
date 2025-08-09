@@ -29,6 +29,9 @@ This repository contains our implementation for automated lung tumor detection u
 **Data Split**:
 - 🧪 **Test Set**: 42 patients (10% held out for final evaluation)
 - 🔄 **Training/Validation**: 378 patients (90% with 10-fold cross-validation)
+  <p align="center">
+  <img width="600" height="300" alt="download (1)" src="https://github.com/user-attachments/assets/35630d91-466e-4d4e-9bb1-939b182b0f23" />
+
 
 ## 🔄 Data Pipeline
 
